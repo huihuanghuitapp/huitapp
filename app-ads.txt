@@ -1,0 +1,4 @@
+# app-ads.txt for HuiTapp
+# Last updated: 2026-04-09
+# Replace with real ad system entries before上线
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

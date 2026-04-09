@@ -1,0 +1,6 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Data Analysis">
+  <ellipse cx="40" cy="18" rx="24" ry="8" fill="#0f766e"/>
+  <path d="M16 18v30c0 4 11 8 24 8s24-4 24-8V18" fill="#14b8a6"/>
+  <ellipse cx="40" cy="48" rx="24" ry="8" fill="#0f766e"/>
+  <ellipse cx="40" cy="34" rx="24" ry="8" fill="#2dd4bf"/>
+</svg>
